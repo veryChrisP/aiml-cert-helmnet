@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/veryChrisP/aiml-cert-helmnet/blob/main/CPeralta_Computer_Vision_Project_6_(Full_Code).ipynb.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/veryChrisP/aiml-cert-helmnet/blob/main/CPeralta%20Computer%20Vision%20Project%206%20%28Full%20Code%29.ipynb)
 
 
 
